@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32edb0c86b56bec42a7a8febacd8678d, type: 3}
+  m_Name: 2nd production building
+  m_EditorClassIdentifier: 
+  productionTime: 3
+  inputItems:
+  - {fileID: 11400000, guid: 30f90136fa128dc4eaea1129fca3013e, type: 2}
+  outputItems:
+  - {fileID: 11400000, guid: 857c5905d17c5a045840cdd99fe7e1f8, type: 2}
